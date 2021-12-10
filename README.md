@@ -40,7 +40,7 @@ This model has been developed to conduct a series of stress tests on multi-asset
 * date range when portfolios hit maximal drawdown
 * asset class allocation at maximal drawdown
 
-##### Test 7. test portfolio performance at VaR together with various redemption relationship
+##### Test 7. Test portfolio performance at VaR together with various redemption ratios
 Basically test 5.1 plus redemption to test when portfolio underperforms which may trigger high redemption request.
 
 
