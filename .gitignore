@@ -1,0 +1,15 @@
+# cache
+scripts/__pycache__/
+
+# distribution
+scripts/build/
+scripts/dist/
+*.spec
+
+# past development
+scripts/development/
+
+# test
+test/
+log/
+
