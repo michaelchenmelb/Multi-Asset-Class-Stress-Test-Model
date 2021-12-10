@@ -46,5 +46,5 @@ Basically test 5.1 plus redemption to test when portfolio underperforms which ma
 
 #### Assumptions:
 * Monte Carlo simulation assumes returns are normally distributed
-* Correlation matrix only measures linear dependency and 1-1 relationship (instead of multi-collinearity)
+* Correlation matrix only measures linear dependency and 1-1 relationship (without considering multi-collinearity)
 * Result reliability heavily depends on forward-looking values provided by users
